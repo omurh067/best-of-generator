@@ -1,0 +1,5 @@
+[project]
+name = "best-of-generator"
+version = "0.1.0"
+description = "🏆 Generates a ranked list of awesome libraries and tools."
+requires-python = ">=3.10"
